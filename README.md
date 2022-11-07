@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CptAwsm
-- 👀 I’m interested in VR, Mandarin, computing, and being awesome!
-- 🌱 I’m currently learning JS Full stack development
+- 👀 I’m interested in VR, python, c++, computing, big data and being awesome!
+- 🌱 I’m currently learning Python development
 - 📫 How to reach me - Adventeclipse@gmail.com
 
 <!---
